@@ -6,6 +6,12 @@ This is now my playground for everything.
 
 ## Scripts
 
+### Start Genymotion
+
+```
+$ npm run android-emu
+```
+
 ### Bend to experiment with directory `[directory-name]`
 
 ```
