@@ -6,7 +6,8 @@
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"android-emu": "open -a /Applications/Genymotion.app/Contents/MacOS/player.app --args --vm-name '87039b90-2b43-4234-b6e5-42f6f1062394'",
     "bend": "node ./scripts/bend.js",
-    "unbend": "npm run bend default"
+    "unbend": "npm run bend default",
+    "new": "node ./scripts/new.js"
 	},
 	"dependencies": {
 		"react": "~15.4.0",
