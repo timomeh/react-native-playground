@@ -1,0 +1,3 @@
+[submodule "bottom-navigation/react-native-material-bottom-navigation"]
+	path = bottom-navigation/react-native-material-bottom-navigation
+	url = git@github.com:timomeh/react-native-material-bottom-navigation.git
