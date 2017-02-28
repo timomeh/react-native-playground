@@ -1,1 +1,4 @@
-default/index.android.js
+import { AppRegistry } from 'react-native'
+import Playground from './default'
+
+AppRegistry.registerComponent('Playground', () => Playground);

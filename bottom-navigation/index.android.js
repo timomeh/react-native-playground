@@ -18,7 +18,7 @@ import MIcon from 'react-native-vector-icons/MaterialIcons'
 import { TabNavigator, TabView } from 'react-navigation'
 
 
-class MyApp extends Component {
+export default class Playground extends Component {
 
 
   render() {
